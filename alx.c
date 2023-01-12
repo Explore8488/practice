@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+
+/**
+ * main - this is the entry point
+ * Description: this is where the program will kick start, it takes no
+ * command line argument, and it return on success
+ * Return: it return 0 on success or 1 on failure
+*/
 int main(){
     int x = 0;
     int y = 0;
