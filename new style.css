@@ -1,0 +1,32 @@
+button{
+    background-color: red;
+}
+#sub{
+    background-color: blue;
+    margin-right: 10px;
+    border-radius: none;
+}
+#unsub {
+    background-color: pink;
+    border-radius: none;
+
+}
+#in{
+    background-color: blue;
+    color: aqua;
+    height: 50px;
+    width: 150px;
+    border-radius: none;
+    cursor: pointer;
+    
+}
+.love{
+    color: rgb(187, 25, 25)  ;
+}
+.animal{
+height: 100px;
+width: 170px;
+border: 2px;
+padding: 30px;
+margin-right: 10px;
+}
